@@ -1,0 +1,12 @@
+com.ubtechinc.cruzr.sdk.dance
+com.ubtechinc.cruzr.sdk.face
+com.ubtechinc.cruzr.sdk.navigation
+com.ubtechinc.cruzr.sdk.navigation.model
+com.ubtechinc.cruzr.sdk.recognition2.arcsoft
+com.ubtechinc.cruzr.sdk.recognition2.model
+com.ubtechinc.cruzr.sdk.ros
+com.ubtechinc.cruzr.sdk.speech
+com.ubtechinc.cruzr.sdk.status
+com.ubtechinc.cruzr.sdk.sys
+com.ubtechinc.cruzr.serverlibutil.aidl
+com.ubtechinc.cruzr.serverlibutil.interfaces
